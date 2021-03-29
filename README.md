@@ -5,7 +5,9 @@ The Data(samples.json) includes information of belly-betton biodiversity from di
 
 ## Variables explaination 
 ID: Personal ID
+
 OTU ID: bacteria ID
+
 Wfreq: belly button washing frequency
 
 ## Functionality
