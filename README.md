@@ -15,6 +15,6 @@ And three plots about the top10 bacteria in his or her belly button, will be gen
   - a bar chart
   - a bubble chart 
   - a Gauge Chart
-  - 
+  
 ## Web Screenshoot
 ![pic](web_screenshot.png)
